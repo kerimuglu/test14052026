@@ -2,12 +2,12 @@
 
 A test repository for learning GitHub workflows.
 
-## Geting Started
+## Getting Started
 
 1. Clone the repository
 2. Make your changes
 3. Open a pull request
 
-## Contibuting
+## Contributing
 
 Feel free to open issues and pull requests!
